@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+D:\Android\Dev\Coursera_Week7_Location_Maps_Sensors\.metadata\.plugins\org.eclipse.jdt.core
+2109581356.index
+532139970.index
+2301066226.index
+2763736120.index
+1481454182.index
+2595257824.index
+3571399910.index
+1264669312.index

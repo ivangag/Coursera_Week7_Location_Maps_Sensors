@@ -1,0 +1,6 @@
+include ':CompassActivity'
+include ':LocationGetLocationWithServiceActivity'
+include ':MapsEarthquakeMapActivity'
+include ':LocationGetLocationActivity'
+include ':SensorFilteredValuesActivity'
+include ':SensorRawAccelerometerActivity'

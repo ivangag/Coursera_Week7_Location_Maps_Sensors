@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompassActivity/CompassActivity.iml" filepath="$PROJECT_DIR$/CompassActivity/CompassActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coursera_Week7_Location_Maps_Sensors.iml" filepath="$PROJECT_DIR$/Coursera_Week7_Location_Maps_Sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationGetLocationActivity/LocationGetLocationActivity.iml" filepath="$PROJECT_DIR$/LocationGetLocationActivity/LocationGetLocationActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationGetLocationWithServiceActivity/LocationGetLocationWithServiceActivity.iml" filepath="$PROJECT_DIR$/LocationGetLocationWithServiceActivity/LocationGetLocationWithServiceActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapsEarthquakeMapActivity/MapsEarthquakeMapActivity.iml" filepath="$PROJECT_DIR$/MapsEarthquakeMapActivity/MapsEarthquakeMapActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorFilteredValuesActivity/SensorFilteredValuesActivity.iml" filepath="$PROJECT_DIR$/SensorFilteredValuesActivity/SensorFilteredValuesActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorRawAccelerometerActivity/SensorRawAccelerometerActivity.iml" filepath="$PROJECT_DIR$/SensorRawAccelerometerActivity/SensorRawAccelerometerActivity.iml" />
+    </modules>
+  </component>
+</project>
+
